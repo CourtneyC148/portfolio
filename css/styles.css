@@ -10126,7 +10126,7 @@ section.resume-section .resume-section-content {
   margin-bottom: 30px;
 }
 
-.portfolio #portfolio-flters {
+/* .portfolio #portfolio-filters {
   padding: 0;
   margin: 0 auto 10px auto;
   list-style: none;
@@ -10135,7 +10135,7 @@ section.resume-section .resume-section-content {
   padding: 2px 15px;
 }
 
-.portfolio #portfolio-flters li {
+.portfolio #portfolio-filters li {
   cursor: pointer;
   display: inline-block;
   padding: 10px 15px;
@@ -10148,12 +10148,16 @@ section.resume-section .resume-section-content {
   transition: all 0.3s ease-in-out;
 }
 
-.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+.portfolio #portfolio-filters li:hover, .portfolio #portfolio-filters li.filter-active {
   color: #204E4A;
 }
 
-.portfolio #portfolio-flters li:last-child {
+.portfolio #portfolio-filters li:last-child {
   margin-right: 0;
+} */
+
+.portfolio .portfolio-wrap img {
+  height: 200px;
 }
 
 .portfolio .portfolio-wrap {
