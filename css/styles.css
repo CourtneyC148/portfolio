@@ -10156,6 +10156,24 @@ section.resume-section .resume-section-content {
   margin-right: 0;
 } */
 
+#about {
+  background-image: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.801), 
+    rgba(255, 255, 255, 0.336)), url("../img/bg.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#about .subheading {
+  color: #232323;
+}
+
+#about p {
+  color: #232323;
+}
+
 .portfolio .portfolio-wrap img {
   height: 200px;
 }
