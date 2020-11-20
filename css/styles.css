@@ -10236,6 +10236,17 @@ section.resume-section .resume-section-content {
   opacity: 1;
 }
 
+/*** activity section ***/
+#activity img {
+  height: 200px;
+  width: auto;
+  max-width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 15px 20px;
+  object-fit: contain;
+}
+
 /* .portfolio .portfolio-wrap:hover .portfolio-info::before {
   top: 15px;
   left: 15px;
