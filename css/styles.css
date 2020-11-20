@@ -10247,6 +10247,13 @@ section.resume-section .resume-section-content {
   object-fit: contain;
 }
 
+#activity h4 {
+  font-weight: 400;
+  color: #0b2e13;
+  text-transform: capitalize;
+  padding: 10px 0;
+}
+
 /* .portfolio .portfolio-wrap:hover .portfolio-info::before {
   top: 15px;
   left: 15px;
